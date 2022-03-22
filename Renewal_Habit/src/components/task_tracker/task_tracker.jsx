@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './task_tracker.module.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Trackers from '../trackers/trackers';
 
 const TaskTracker = (props) => {

@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from './timer.module.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { useEffect, useState, useRef } from 'react';
 
 const padNumber = (num, length) => {
     return String(num).padStart(length, '0');

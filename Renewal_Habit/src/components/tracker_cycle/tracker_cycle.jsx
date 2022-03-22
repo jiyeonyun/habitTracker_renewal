@@ -55,7 +55,7 @@ const TrackerCycle = ({popup,setPopup,finish,setFinish}) => {
     }
 
     useEffect(()=>{
-        if(cylce!=0 && cylce == cylceTime){
+        if(cylce!==0 && cylce === cylceTime){
             setFinish(!finish);
         }
     },[cylce]);

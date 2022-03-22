@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './tracker.module.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { useState,useRef,useEffect } from 'react';
+import { useRef,useEffect } from 'react';
 const Tracker = ({trackerName,onDelete,trakcer,edit,onEdit,onCheck,checked,onSubmitClicked}) => {
     const inputRef = useRef();
     const onDeleteClick = ()=>{

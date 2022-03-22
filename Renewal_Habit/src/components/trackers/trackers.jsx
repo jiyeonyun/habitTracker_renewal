@@ -1,14 +1,11 @@
 import React from 'react';
-import { useState,useRef } from 'react';
+import { useState } from 'react';
 import Tracker from '../tracker/tracker';
 import TrackerAddForm from '../tracker_add_form/tracker_add_form';
-import styles from './trackers.module.css';
 
 const Trackers = (props) => {
     const [tracker,setTracker] = useState([]);
     const [trackerName,setTrackerName] = useState(''); 
-    
-    const editInputRef = useRef(false);
 
     const onSubmit = (name,checked,edit)=>{
         setTrackerName(name);
