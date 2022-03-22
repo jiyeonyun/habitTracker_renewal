@@ -1,0 +1,20 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2em;
+}
+.wrapPopup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3e3e3e6b;
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2em;
+}

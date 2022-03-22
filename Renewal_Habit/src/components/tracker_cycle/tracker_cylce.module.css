@@ -1,0 +1,96 @@
+.task_tracker{
+    width: 98%;
+    background-color:rgb(255, 255, 253);
+    height: 100%;
+    border-radius:3em;
+    box-sizing: border-box;
+    padding: 1em;
+    overflow-y: auto;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+    position: relative;
+}
+.task_tracker_popup{
+    width: 98%;
+    background-color: #0b0b0b00;
+    height: 100%;
+    border-radius:3em;
+    box-sizing: border-box;
+    padding: 1em;
+    overflow-y: auto;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+    position: relative;
+}
+.task_trackers{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.task_tracker::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+.none{
+    display: none;
+}
+.popup{
+    box-sizing: border-box;
+    padding: 3em;
+    background-color: white;
+    z-index: 100;
+    position: absolute;
+    border-radius: 2em;
+    display: flex;
+    flex-direction: column;
+}
+.popupTitle{
+    padding: 0;
+    margin: 0;
+}
+.exist{
+    position: absolute;
+    top: 0.8em;
+    right:1em;
+    cursor: pointer;
+}
+.exist:hover{
+    transform: scale(1.1);
+}
+.list{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.popupButton{
+    box-sizing: border-box;
+    margin-top: 1.2em;
+    border: 0;
+    padding: 0.5em;
+    cursor: pointer;
+}
+.popupButton:hover{
+    background-color: rgb(140, 140, 140);
+}
+.span{
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+}
+.optionTitle{
+    font-size: 1.2rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+.finish{
+    border: 0.3em solid rgb(82, 82, 82);
+    box-sizing: border-box;
+    padding: 3em;
+    background-color: white;
+    z-index: 100;
+    position: absolute;
+    border-radius: 2em;
+    display: flex;
+    flex-direction: column;
+}
