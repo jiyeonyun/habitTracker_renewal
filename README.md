@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/Git hub-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
 <br>
-<img width="1439" alt="스크린샷 2022-03-23 오후 1 46 44" src="https://user-images.githubusercontent.com/94913420/159626012-b34d5747-854c-48fd-8459-78c9aaf40c66.png">
+<img width="471" alt="스크린샷 2022-03-23 오후 3 07 02" src="https://user-images.githubusercontent.com/94913420/159634533-b8352b80-49eb-4527-a5a9-01667bff6c91.png">
+<img width="445" alt="스크린샷 2022-03-23 오후 3 06 56" src="https://user-images.githubusercontent.com/94913420/159634537-283d289b-5577-4f04-bf89-e61ea261be30.png">
+<img width="489" alt="스크린샷 2022-03-23 오후 2 59 03" src="https://user-images.githubusercontent.com/94913420/159634546-c4047632-5fae-4c84-9445-c757616736e9.png">
 <br> <br>
 영화앱을 만드는 강의를듣고 페이지가 하나만있는 영화 어플리케이션을 만들게되었습니다.<br>
 저는 무엇을 배우던, 제 방식대로 한번 더 만들어 보는 것이 재밌기 때문에 장르,서치,상세페이지, 그리고 페이지를 추가한 영화 사이트를 만들어 보았습니다.<br>
