@@ -23,7 +23,7 @@
 <img width="471" alt="스크린샷 2022-03-23 오후 3 07 02" src="https://user-images.githubusercontent.com/94913420/159634533-b8352b80-49eb-4527-a5a9-01667bff6c91.png">
 <img width="445" alt="스크린샷 2022-03-23 오후 3 06 56" src="https://user-images.githubusercontent.com/94913420/159634537-283d289b-5577-4f04-bf89-e61ea261be30.png">
 <img width="489" alt="스크린샷 2022-03-23 오후 2 59 03" src="https://user-images.githubusercontent.com/94913420/159634546-c4047632-5fae-4c84-9445-c757616736e9.png">
-<img src="https://user-images.githubusercontent.com/94913420/159634568-661e7fad-fe5d-4b87-9f11-532523417096.gif">
-<img src="https://user-images.githubusercontent.com/94913420/159634582-ba67ce08-c8d3-4c5a-9712-176ce3238795.gif">
-<img src="https://user-images.githubusercontent.com/94913420/159634590-78dbcd8d-1b07-4376-b831-6777593ee542.gif">
-<img src="https://user-images.githubusercontent.com/94913420/159634592-5065e2ea-f157-40c6-aa64-a9f6b8af27d3.gif">
+<img width="468" src="https://user-images.githubusercontent.com/94913420/159634568-661e7fad-fe5d-4b87-9f11-532523417096.gif">
+<img width="468" src="https://user-images.githubusercontent.com/94913420/159634582-ba67ce08-c8d3-4c5a-9712-176ce3238795.gif">
+<img width="468" src="https://user-images.githubusercontent.com/94913420/159634590-78dbcd8d-1b07-4376-b831-6777593ee542.gif">
+<img width="468" src="https://user-images.githubusercontent.com/94913420/159634592-5065e2ea-f157-40c6-aa64-a9f6b8af27d3.gif">
