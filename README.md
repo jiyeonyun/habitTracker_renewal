@@ -46,12 +46,15 @@
 삭제버튼을 누르면 할일이 제거된다.
 <br><br><br>
 ### 타이머 설정, 플레이, 정지
+
 <img width="468" src="https://user-images.githubusercontent.com/94913420/159634590-78dbcd8d-1b07-4376-b831-6777593ee542.gif">
 <br><br><br>
 타이머의 플레이버튼을 누르면 설정된 타이머가 시작된다. 일시정지를 누르게되면 타이머가 멈춘다.<br>
 다시한번 누르면 정지되었던 타이머가 움직인다.
 <br><br><br>
+
 ### 타이머 끝, 리셋
+
 <img width="468" src="https://user-images.githubusercontent.com/94913420/159634592-5065e2ea-f157-40c6-aa64-a9f6b8af27d3.gif">
 <br><br><br>
 설정된 집중횟수를 다 채우게되면 finish라는 팝업이 나온다. 그리고 설정된 focus시간만큼 지난다면 그다음 타이머는<br>
